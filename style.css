@@ -1,0 +1,20 @@
+p {
+    color: chartreuse;
+}
+h1, p{
+    margin-left: 200px;
+}
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 54px;
+}
+span {
+    color: orange;
+}
+img {
+    height: 300px;
+    width: 150px;
+    border-radius: 10px;
+}
